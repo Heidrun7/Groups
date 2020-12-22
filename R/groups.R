@@ -15,7 +15,7 @@ cutListByElement <- function(fullList, element) {
 # Second variable is an array of group sizes
 randAssign <- function(totalPopulation, ...) {
   if (length(list(...)) == 0) {
-    return("Number of group sizes must be more than 0!")
+    return("Number of group sizes must be greater than 0!")
   }
   if (totalPopulation <= 0) { # Check if totalPopulation is bigger than 0
     return("Total population must be greater than 0!")

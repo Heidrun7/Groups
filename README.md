@@ -4,16 +4,20 @@ This is an R pacakge that contains functions for operations such as to divide a 
 
 # Usage
 Install the package:
+
 `devtools::install_github('davidissamattos/ESEData')`
 
 Load the package:
+
 `library(ESEData)`
 
 Use the functions:
+
 `randomGroups <- randAssign(144, 12, 20, 4, 12)
 randomGroups`
 
 Example output:
+
 `12 20  4 20  4  4  4  4 12 12 12 20  4  4  4  4`
 
 List of functions:
