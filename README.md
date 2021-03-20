@@ -5,11 +5,11 @@ This is an R pacakge that contains functions for operations such as to divide a 
 # Usage
 Install the package:
 
-`devtools::install_github('davidissamattos/ESEData')`
+`devtools::install_github('Heidrun7/Groups')`
 
 Load the package:
 
-`library(ESEData)`
+`library(Groups)`
 
 Use the functions:
 
